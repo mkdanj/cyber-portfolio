@@ -1,8 +1,8 @@
-**SOC Analyst Portfolio**
+# **SOC Analyst Portfolio**
 
 This section contains security investigations simulating work performed in a Security Operations Center (SOC).
 
-**Investigation Projects**
+## **Investigation Projects**
 
 - Brute Force Attack Investigation
 
